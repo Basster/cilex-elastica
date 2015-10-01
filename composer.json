@@ -1,0 +1,25 @@
+{
+  "name": "basster/cilex-elastica",
+  "description": "A Cilex Service Provider for Elastica",
+  "require": {
+    "ruflin/elastica": "^2.1",
+    "cilex/cilex": "^1.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ole Rößner",
+      "email": "oroessner@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Basster\\Cilex\\Elastica\\": "src",
+      "Basster\\Cilex\\Elastica\\Test\\": "test"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8"
+  }
+}
