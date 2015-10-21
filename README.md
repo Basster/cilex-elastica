@@ -1,5 +1,7 @@
 # basster/cilex-elastica
 
+[![Build Status](https://travis-ci.org/Basster/cilex-elastica.svg?branch=master)](https://travis-ci.org/Basster/cilex-elastica)
+
 This is a service provider for [Cilex](http://cilex.github.io/) which makes
 access to [Elasticsearch](http://www.elasticsearch.org) available through
 [Elastica](http://elastica.io).
