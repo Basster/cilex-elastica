@@ -1,6 +1,6 @@
 # basster/cilex-elastica
 
-[![Build Status](https://travis-ci.org/Basster/cilex-elastica.svg?branch=master)](https://travis-ci.org/Basster/cilex-elastica)
+[![Build Status](https://travis-ci.org/Basster/cilex-elastica.svg?branch=master)](https://travis-ci.org/Basster/cilex-elastica) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/d157422c-912c-4015-ac30-3b989181378f/mini.png)](https://insight.sensiolabs.com/projects/d157422c-912c-4015-ac30-3b989181378f)
 
 This is a service provider for [Cilex](http://cilex.github.io/) which makes
 access to [Elasticsearch](http://www.elasticsearch.org) available through
